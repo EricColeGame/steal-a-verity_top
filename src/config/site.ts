@@ -19,15 +19,15 @@ export interface SiteConfig {
 }
 
 export const siteConfig: SiteConfig = {
-  name: "My Seafood Stand Wiki",
-  shortName: "My Seafood Stand",
-  logoText: "SS",
-  tagline: "Complete Guides, Codes, Recipes & Tier Lists",
-  description: "Your ultimate guide to My Seafood Stand on Roblox! Explore active working codes, seafood recipes, best upgrades, profit strategies, and progression guides.",
-  url: process.env.NEXT_PUBLIC_SITE_URL || "https://myseafoodstand.top",
-  supportEmail: `support@${new URL(process.env.NEXT_PUBLIC_SITE_URL || "https://myseafoodstand.top").hostname.replace(/^www\./, "")}`,
-  gameUrl: "https://www.roblox.com/games/my-seafood-stand",
-  heroVideoId: "M8DvcwoFRrk", // Roblox My Seafood Stand codes & gameplay video
+  name: "Steal A Verity Wiki",
+  shortName: "Steal A Verity",
+  logoText: "SV",
+  tagline: "Verity Pets, Codes, Tier Lists & Stealing Guides",
+  description: "Your ultimate guide to Steal A Verity on Roblox! Steal boxes from Monster Verity, collect Verity Pets, train your Speed, upgrade your base, and become the richest player on the server.",
+  url: process.env.NEXT_PUBLIC_SITE_URL || "https://steal-a-verity.top",
+  supportEmail: `support@${new URL(process.env.NEXT_PUBLIC_SITE_URL || "https://steal-a-verity.top").hostname.replace(/^www\./, "")}`,
+  gameUrl: "https://www.roblox.com/games/107164765081465/Steal-A-Verity",
+  heroVideoId: "M2Hbmh2s2mQ", // ROBLOX STEAL A VERITY! gameplay walkthrough
   social: {
     discord: "https://discord.gg/roblox",
     youtube: "https://www.youtube.com/@roblox",
