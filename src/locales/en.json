@@ -43,22 +43,22 @@
         {
           "number": "1",
           "title": "Beginner Guide",
-          "description": "Master the Spirit World from day one with our comprehensive beginner guide covering controls, combat, and early progression."
+          "description": "Claim a base plot, scout Monster Verity's crate arena, land your first box steal, and hatch the Verity Pets that start your passive income."
         },
         {
           "number": "2",
-          "title": "Fastest Leveling",
-          "description": "Dominate early game and max your progression with the most efficient leveling routes and strategies."
+          "title": "Fastest Speed Leveling",
+          "description": "Treadmill Speed is the real progression stat. Learn the 10k, 50k and 250k breakpoints that unlock safer box runs and faster escapes."
         },
         {
           "number": "3",
-          "title": "Best Farming Spots",
-          "description": "Maximize your Soul Essence and EXP gains with optimal farming locations for every stage."
+          "title": "Best Box Farming Spots",
+          "description": "Route the yellow, blue and pink Monster Verity boxes worth farming at each Speed tier, and learn when a heavy crate is not worth the risk."
         },
         {
           "number": "4",
-          "title": "How to Extract",
-          "description": "Learn the best methods and locations for extracting resources in Steal A Verity."
+          "title": "How to Evolve Verity Pets",
+          "description": "Work toward Winged, Black Smiling and Rainbow variants, fill your pet Index, and decide which hatchlings deserve a permanent base slot."
         }
       ]
     },
@@ -66,78 +66,60 @@
       "eyebrow": "Popular Pages",
       "title": "Trending Now",
       "quickLinks": [
-        "Hollow Progression",
-        "Fastest Leveling",
-        "Spirit Charms",
-        "All Boss Guides"
+        "Beginner Guide",
+        "Verity Pets",
+        "Pet Tier List",
+        "Speed Training"
       ],
       "cards": [
         {
           "badge": "Beginner",
           "title": "Beginner Guide",
-          "description": "Everything you need from your first login to mastering the basics of combat and progression.",
-          "href": "/beginner-guide"
+          "description": "Claim your plot, steal your first Monster Verity box, and set up the tycoon loop from your very first session.",
+          "href": "/guide/steal-a-verity-beginner-guide"
         },
         {
           "badge": "Updated",
-          "title": "Active Codes",
-          "description": "All working codes with rewards redeem before they expire.",
-          "href": "/codes"
-        },
-        {
-          "badge": "Updated",
-          "title": "Equipment Database",
-          "description": "94 items across 5 slots complete gear database with stats, rarity, and sources.",
-          "href": "/equipment"
+          "title": "Verity Pets & Eggs",
+          "description": "How Verity, Monster and Secret eggs hatch, which pets pay the most cash per second, and how the pet Index works.",
+          "href": "/items/steal-a-verity-verity-egg"
         },
         {
           "badge": "Popular",
-          "title": "Which Race Should You Pick?",
-          "description": "Shinigami, Quincy, or Hollow compare all three and find your perfect playstyle.",
-          "href": "/races/best-race"
-        },
-        {
-          "badge": "New",
-          "title": "Enemies & Monsters",
-          "description": "23 enemy types across 5 regions drops, locations, and farming tips.",
-          "href": "/enemies"
+          "title": "Pet Tier List",
+          "description": "Rainbow, Black Smiling, Winged and color-variant pets ranked by income and progression value.",
+          "href": "/items/steal-a-verity-godly-verity"
         },
         {
           "badge": "Popular",
-          "title": "Boss Locations & Drops",
-          "description": "Every boss location, drop table, and respawn timer in one reference.",
-          "href": "/boss-locations-drops-respawn-times"
+          "title": "Stealing Guide",
+          "description": "Monster Verity aggro patterns, color-variant threats, escape arcs and PvP box heists explained step by step.",
+          "href": "/mechanics/steal-a-verity-stealing"
+        },
+        {
+          "badge": "New",
+          "title": "Speed Training",
+          "description": "Treadmill upgrade priorities and the Speed milestones that decide which boxes you can safely carry home.",
+          "href": "/progression/steal-a-verity-max-level"
         },
         {
           "badge": "Popular",
-          "title": "Best Builds",
-          "description": "Optimal stat allocation, skill tree picks, and Charm combos for every playstyle.",
-          "href": "/builds/best-builds"
-        },
-        {
-          "badge": "New",
-          "title": "Shikai Tier List",
-          "description": "All 6 Shinigami Shikai types ranked by PvP and PvE performance.",
-          "href": "/tier-list/shikai"
-        },
-        {
-          "badge": "New",
-          "title": "World Events Guide",
-          "description": "Supply Caches, Raids, and endgame world events with rare rewards.",
-          "href": "/world-events"
+          "title": "Base Defense",
+          "description": "Gate, vault and layout upgrades that keep raiders away from your highest-earning pets.",
+          "href": "/base/steal-a-verity-best-base"
         }
       ]
     },
     "aboutGame": {
       "title": "What is Steal A Verity?",
       "paragraphs": [
-        "Steal A Verity is a stylized fighting RPG on Roblox inspired by the Bleach anime universe. Choose from three playable races Shinigami, Quincy, or Hollow each with unique progression systems, unlockable abilities, and evolution paths. Master over 130 skills as you fight your way to the level 100 cap.",
-        "Whether you're unlocking your first Shikai, evolving from a base Hollow into an Arrancar, or grinding Quincy Lieutenant missions, our wiki covers every system with detailed guides, data tables, and step-by-step walkthroughs."
+        "Steal A Verity is a free-to-play Roblox steal-and-grow tycoon where up to seven players share a server and race to build the richest base. You claim a plot, raid crates guarded by Monster Verity or swipe boxes from rival players, then carry the loot home before someone intercepts you.",
+        "Back at your base, boxes are dropped onto a hatch pad to reveal Verity Pets that generate passive income. That cash funds treadmill training for permanent Speed, which in turn unlocks heavier crates, rarer pet variants and safer escapes. Master the loop of steal, hatch, earn and upgrade, and you climb from easy target to server tycoon."
       ],
       "stats": [
         {
           "label": "Developer",
-          "value": "Midnight Continent"
+          "value": "Steal A Verity! (Roblox Group)"
         },
         {
           "label": "Platform",
@@ -145,158 +127,244 @@
         },
         {
           "label": "Genre",
-          "value": "Fighting RPG"
+          "value": "Steal-and-Grow Tycoon"
         },
         {
-          "label": "Visits",
-          "value": "12.6M+"
+          "label": "Total Visits",
+          "value": "6.5M+"
         },
         {
           "label": "Favorites",
-          "value": "243K+"
+          "value": "318K+"
         },
         {
-          "label": "Total Skills",
-          "value": "130+"
-        },
-        {
-          "label": "Level Cap",
-          "value": "100"
+          "label": "Players Online",
+          "value": "6.4K+"
         }
       ],
       "cta": "Explore All Guides"
     },
     "explore": {
       "title": "Explore Steal A Verity Wiki",
-      "description": "Master your seafood restaurant on Roblox with essential progression guides, active codes, complete fish & recipe catalogs, and optimal upgrade strategies.",
+      "description": "Master the Steal A Verity tycoon loop with box-farming routes, Verity Pet tier lists, Speed milestones, base defense layouts and the latest game updates.",
       "modules": [
         {
           "order": 1,
-          "name": "Steal A Verity Working Codes",
-          "description": "Redeem the latest working codes to claim free coins, gems, exclusive cosmetics, and boost items before they expire.",
-          "href": "/codes/steal-a-verity-codes",
-          "displayType": "code-box",
+          "name": "Steal A Verity Codes",
+          "description": "Every working and expired code in one place, plus the exact redemption steps. There are currently no active developer-issued codes, so this hub tracks the official Roblox page and community announcements for the moment new ones go live.",
+          "href": "/guide/steal-a-verity-guide",
+          "displayType": "code-cards",
           "highlights": [
             {
-              "label": "Code",
-              "detail": "FULLRELEASE — Free Cash & Rewards"
+              "label": "No Codes",
+              "detail": "There are no active developer-issued Steal A Verity codes right now"
             },
             {
-              "label": "Code",
-              "detail": "75KLIKES — Exclusive Ability Reroll"
+              "label": "Official Only",
+              "detail": "Watch the official Roblox page and community channels for new code drops"
             },
             {
-              "label": "Tip",
-              "detail": "Codes are case-sensitive; enter them in the Settings menu"
+              "label": "Redeem",
+              "detail": "Future codes are entered from the in-game Settings menu and are case-sensitive"
             }
           ]
         },
         {
           "order": 2,
-          "name": "Beginner Guide: How to Start & Serve Customers",
-          "description": "Step-by-step beginner guide covering customer ordering, food prep, station management, and cashier checkout mechanics.",
+          "name": "Steal A Verity Beginner Guide",
+          "description": "A step-by-step walkthrough of the first session: claiming a base, scouting Monster Verity, landing a safe box steal, hatching starter pets and reinvesting into Speed.",
           "href": "/guide/steal-a-verity-beginner-guide",
-          "displayType": "feature-cards",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Step 1",
-              "detail": "Take customer order at the stall front"
+              "label": "1",
+              "detail": "Step onto an unclaimed neon pad to lock in your base plot"
             },
             {
-              "label": "Step 2",
-              "detail": "Cook seafood on the grill or boil station"
+              "label": "2",
+              "detail": "Scout the central arena where Monster Verity circles the crates"
             },
             {
-              "label": "Step 3",
-              "detail": "Serve warm food promptly for maximum customer tips"
+              "label": "3",
+              "detail": "Grab a standard yellow box and escape before aggro builds"
+            },
+            {
+              "label": "4",
+              "detail": "Drop the box on your hatch pad to get your first Verity Pet"
+            },
+            {
+              "label": "5",
+              "detail": "Reinvest every early dollar into treadmill Speed, not cosmetics"
             }
           ]
         },
         {
           "order": 3,
-          "name": "Seafood & Fish Tier List",
-          "description": "Complete breakdown of all catchable fish and seafood ranked by market value, customer demand, and profit margins.",
-          "href": "/seafood/steal-a-verity-tier-list",
+          "name": "Steal A Verity Pet Tier List",
+          "description": "Verity Pets ranked by rarity, income potential and progression value, so you know which hatchlings to keep and which to sell for treadmill funding.",
+          "href": "/items/steal-a-verity-godly-verity",
           "displayType": "tier-grid",
           "highlights": [
             {
-              "label": "S Tier",
-              "detail": "King Crab · Lobster Boil — Highest profit per customer"
+              "label": "S",
+              "detail": "Rainbow and Black Smiling Verity - rarest forms with the highest cash per second"
             },
             {
-              "label": "A Tier",
-              "detail": "Salmon · Jumbo Shrimp · Tuna Steak — Reliable fast earners"
+              "label": "A",
+              "detail": "Winged Verity - elite chase rewards with strong passive income"
             },
             {
-              "label": "B Tier",
-              "detail": "Clams · Oysters · Squid — Great mid-game margin"
+              "label": "B",
+              "detail": "Yellow, Blue and Pink variant pets - dependable mid-game earners"
             },
             {
-              "label": "C Tier",
-              "detail": "Common Sardines · Small Crab — Starter seafood"
+              "label": "C",
+              "detail": "Standard Monster Verity pets - safe starter income and easy Index fills"
             }
           ]
         },
         {
           "order": 4,
-          "name": "Best Upgrades Progression",
-          "description": "Optimal order to spend your cash: expand kitchen stations, hire waitstaff, speed up grills, and upgrade seating.",
-          "href": "/upgrades/steal-a-verity-best-upgrades",
-          "displayType": "feature-cards",
+          "name": "Steal A Verity Pets",
+          "description": "How Verity Pets are acquired and what they are worth: box hatching, cash-per-second income, egg tiers and the rare variants that anchor a late-game roster.",
+          "href": "/items/steal-a-verity-verity-egg",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Priority 1",
-              "detail": "Cooking Speed & Extra Burners — Clears customer backlog"
+              "label": "Pet Eggs",
+              "detail": "Verity, Monster and Secret eggs each roll from a different rarity pool"
             },
             {
-              "label": "Priority 2",
-              "detail": "Customer Seating Capacity — Increases simultaneous diners"
+              "label": "Hatching",
+              "detail": "Drop a stolen box on your base pad to hatch a pet and start earning"
             },
             {
-              "label": "Priority 3",
-              "detail": "Auto-Chef / Waiter Staff — Passive hands-free revenue"
+              "label": "Rarity",
+              "detail": "Rainbow and Black Smiling variants pay the most cash per second"
+            },
+            {
+              "label": "Index",
+              "detail": "Log each new pet once to complete your Index and claim milestones"
+            },
+            {
+              "label": "Income",
+              "detail": "Keep top earners equipped and sell duplicate commons for quick cash"
             }
           ]
         },
         {
           "order": 5,
-          "name": "How to Get Cash Fast",
-          "description": "Top money-making strategies, VIP evaluation, tip maximization, and high-efficiency serving tips.",
-          "href": "/guide/steal-a-verity-how-to-get-cash-fast",
-          "displayType": "feature-cards",
+          "name": "Steal A Verity Stealing Guide",
+          "description": "How to take boxes from Monster Verity and rival players safely, covering route planning, color-variant threats, escape arcs, risk control and banking loot at your base.",
+          "href": "/mechanics/steal-a-verity-stealing",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Combo",
-              "detail": "Chain orders quickly to build the Customer Happiness multiplier"
+              "label": "1",
+              "detail": "Walk the route empty-handed once to learn the camera angles"
             },
             {
-              "label": "High Margin",
-              "detail": "Focus high-tier seafood boils during peak customer rush hours"
+              "label": "2",
+              "detail": "Check Monster Verity's patrol direction and color before entering"
             },
             {
-              "label": "Reinvest",
-              "detail": "Keep 20% cash reserve for fresh ingredient replenishment"
+              "label": "3",
+              "detail": "Dash in for the box the moment the monster turns away"
+            },
+            {
+              "label": "4",
+              "detail": "Escape on wide arcs - sharp corners drain your momentum"
+            },
+            {
+              "label": "5",
+              "detail": "Deposit the box on your base pad to hatch it immediately"
+            },
+            {
+              "label": "6",
+              "detail": "Bank the loot and upgrade Speed before the next run"
             }
           ]
         },
         {
           "order": 6,
-          "name": "Plot Expansion & Stand Customization",
-          "description": "Unlock bigger land plots, arrange optimal cooking layouts, and add high-value decorative upgrades.",
-          "href": "/upgrades/steal-a-verity-how-to-upgrade-plot",
-          "displayType": "feature-cards",
+          "name": "Steal A Verity Speed Guide",
+          "description": "Treadmill training and the Speed milestones that change what you can farm, from consistent 10k box routes to million-Speed cross-map extracts.",
+          "href": "/progression/steal-a-verity-max-level",
+          "displayType": "code-cards",
           "highlights": [
             {
-              "label": "Plot 1",
-              "detail": "Starter Beach Stand (3 Tables, 1 Grill)"
+              "label": "10k",
+              "detail": "Consistent Monster Verity box routes with controlled sprints"
             },
             {
-              "label": "Plot 2",
-              "detail": "Boardwalk Restaurant (6 Tables, 2 Grills, Boil Station)"
+              "label": "50k",
+              "detail": "Reliable Legendary crate steals and escapes from rival players"
             },
             {
-              "label": "Plot 3",
-              "detail": "Luxury Pier Seafood Pavilion (Full Automation & VIP Seating)"
+              "label": "250k",
+              "detail": "Cross-map routes with high carry safety for heavy crates"
+            },
+            {
+              "label": "1M",
+              "detail": "Peak traversal Speed for near-untouchable extractions"
+            },
+            {
+              "label": "Treadmill",
+              "detail": "Every upgrade raises Speed gained per tick - fund it before cosmetics"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Steal A Verity Base Guide",
+          "description": "Base upgrades and layouts that protect your pet income, covering entry gates, vault enclosures, breach alarms and where to place your highest earners.",
+          "href": "/base/steal-a-verity-best-base",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Gates",
+              "detail": "Entry gates and portals stop straight-line walk-ins before anything else"
+            },
+            {
+              "label": "Fencing",
+              "detail": "Perimeter fencing forces raiders into predictable jumping paths"
+            },
+            {
+              "label": "Vaults",
+              "detail": "Enclose high-yield pet slots so thieves cannot see your best earners"
+            },
+            {
+              "label": "Alarms",
+              "detail": "Breach alerts warn you before an AFK treadmill block turns costly"
+            },
+            {
+              "label": "Layout",
+              "detail": "Hide bank pets deep inside and keep bait pets near the entrance"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Steal A Verity Updates",
+          "description": "A running summary of official Steal A Verity updates, including new box and pet content, balance adjustments and other changes that shift the meta between versions.",
+          "href": "/guide/steal-a-verity-full-game",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Patches",
+              "detail": "Box spawn timers and monster aggro radii shift between updates"
+            },
+            {
+              "label": "Variants",
+              "detail": "New color and Winged Verity forms change how chases play out"
+            },
+            {
+              "label": "Economy",
+              "detail": "Pet income and treadmill costs are retuned as the game grows"
+            },
+            {
+              "label": "Timeline",
+              "detail": "Track every content drop against the current live version"
             }
           ]
         }
@@ -308,23 +376,23 @@
       "items": [
         {
           "question": "What is Steal A Verity?",
-          "answer": "Steal A Verity is a free-to-play fighting RPG on Roblox based on the Bleach anime. You choose one of game mechanics Shinigami (Soul Reaper), Quincy, or Hollow each with unique progression, combat abilities, and evolution systems. The game features 130+ skills, a level 100 cap, boss fights, and deep build customization."
+          "answer": "Steal A Verity is a free-to-play Roblox steal-and-grow tycoon. You claim a base plot, raid crates guarded by Monster Verity or steal boxes from rival players, hatch Verity Pets for passive income, and train Speed on your treadmill until no one on the server can catch you."
         },
         {
-          "question": "Which race should beginners pick?",
-          "answer": "Shinigami is the most straightforward starter race, while Hollow and Quincy offer more specialized progression routes. Compare their abilities before committing."
+          "question": "Are there any Steal A Verity codes?",
+          "answer": "No. There are currently no active developer-issued Steal A Verity codes. Avoid third-party code generators, which compromise your account security without granting any real reward. Progress comes from box runs, pet income and treadmill training."
         },
         {
-          "question": "What is the current level cap?",
-          "answer": "The current level cap is 100, with more than 130 skills available across trees and race progression systems."
+          "question": "What is the most important stat in Steal A Verity?",
+          "answer": "Movement Speed. It decides whether a haul survives the trip home, so reinvest pet income into treadmill upgrades before buying cosmetic items. Most players target 10k Speed for comfortable Monster Verity routes and 50k before hunting Legendary crates."
         },
         {
-          "question": "Where do I find active codes?",
-          "answer": "Use the Codes page for working codes, rewards, expiration notes, and redeem instructions."
+          "question": "How do I stop players from stealing my pets in Steal A Verity?",
+          "answer": "Move your highest earners to the back of the plot, block sightlines from the entrance, and upgrade gates and vault enclosures early. Keep treadmill sessions short or check your entry lanes regularly, since raiders target players who are locked into AFK training."
         },
         {
-          "question": "Are boss guides updated?",
-          "answer": "Boss pages are organized with spawn notes, attack patterns, strategies, drop tables, and related next steps for progression."
+          "question": "How do I hatch Verity Pets in Steal A Verity?",
+          "answer": "Steal a box from Monster Verity or another player, carry it back to your base, and drop it on the hatch pad to reveal a pet. Rarer boxes roll from stronger rarity pools, and every new pet you discover is logged in your Index."
         }
       ]
     },
