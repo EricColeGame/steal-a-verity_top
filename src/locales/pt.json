@@ -1,1 +1,474 @@
-{}
+{
+  "site": {
+    "name": "Wiki do Steal A Verity",
+    "shortName": "Steal A Verity",
+    "tagline": "Pets Verity, códigos, tier lists e guias de roubo",
+    "description": "A Wiki do Steal A Verity é um hub de guias de Roblox feito por fãs, com códigos ativos, Pets Verity, tier lists, rotas de roubo, treino de velocidade e dicas de melhoria de base.",
+    "legalNotice": "Wiki de fãs não oficial. Feita por jogadores, para jogadores."
+  },
+  "nav": {
+    "home": "Início",
+    "menu": "Menu",
+    "toggleTheme": "Alternar tema",
+    "guide": "Guia",
+    "mechanics": "Mecânicas",
+    "characters": "Personagens",
+    "items": "Itens",
+    "progression": "Progressão",
+    "base": "Base"
+  },
+  "home": {
+    "meta": {
+      "title": "Wiki do Steal A Verity - Códigos, Pets e Guia",
+      "description": "Wiki do Steal A Verity com códigos, Pets Verity, tier lists, guias de roubo, treino de velocidade, melhorias de base, dicas de Verity raros e as últimas atualizações de Roblox."
+    },
+    "hero": {
+      "eyebrow": "Tycoon de roubar e crescer no Roblox",
+      "title": "Wiki do Steal A Verity",
+      "description": "Roube caixas do Monster Verity e de jogadores rivais, abra-as para coletar Pets Verity, ganhe dinheiro, treine sua Velocidade, melhore sua base e torne-se o jogador mais rico do servidor.",
+      "stats": [
+        "6,5M+ visitas totais",
+        "6,4K+ jogadores online",
+        "318K+ favoritos",
+        "Atualizações diárias"
+      ],
+      "primaryCta": "Jogar no Roblox",
+      "secondaryCta": "Guia para iniciantes",
+      "tertiaryCta": "Códigos ativos",
+      "videoLabel": "Vídeo de gameplay"
+    },
+    "updates": {
+      "title": "Últimas atualizações",
+      "browse": "Ver todos os guias",
+      "viewAll": "Ver tudo"
+    },
+    "start": {
+      "eyebrow": "Comece aqui",
+      "title": "Sua jornada no Steal A Verity",
+      "cards": [
+        {
+          "number": "1",
+          "title": "Guia para iniciantes",
+          "description": "Reivindique um terreno, explore a arena de caixas do Monster Verity, faça seu primeiro roubo de caixa e choque os Pets Verity que iniciam sua renda passiva."
+        },
+        {
+          "number": "2",
+          "title": "Nivelamento de velocidade mais rápido",
+          "description": "A Velocidade na esteira é o verdadeiro atributo de progressão. Aprenda os marcos de 10k, 50k e 250k que liberam rotas de caixas mais seguras e fugas mais rápidas."
+        },
+        {
+          "number": "3",
+          "title": "Melhores locais de farm de caixas",
+          "description": "Trace a rota das caixas amarelas, azuis e rosas do Monster Verity que valem a pena farmar em cada faixa de Velocidade, e aprenda quando uma caixa pesada não vale o risco."
+        },
+        {
+          "number": "4",
+          "title": "Como evoluir os Pets Verity",
+          "description": "Trabalhe rumo às variantes Winged, Black Smiling e Rainbow, complete seu Índice de pets e decida quais filhotes merecem um espaço permanente na base."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "Páginas populares",
+      "title": "Em alta agora",
+      "quickLinks": [
+        "Guia para iniciantes",
+        "Pets Verity",
+        "Tier list de pets",
+        "Treino de velocidade"
+      ],
+      "cards": [
+        {
+          "badge": "Iniciante",
+          "title": "Guia para iniciantes",
+          "description": "Reivindique seu terreno, roube sua primeira caixa do Monster Verity e monte o ciclo tycoon desde a sua primeira sessão.",
+          "href": "/guide/steal-a-verity-beginner-guide"
+        },
+        {
+          "badge": "Atualizado",
+          "title": "Pets e Ovos Verity",
+          "description": "Como os ovos Verity, Monster e Secret chocam, quais pets pagam mais dinheiro por segundo e como funciona o Índice de pets.",
+          "href": "/items/steal-a-verity-verity-egg"
+        },
+        {
+          "badge": "Popular",
+          "title": "Tier list de pets",
+          "description": "Pets Rainbow, Black Smiling, Winged e variantes de cor classificados por renda e valor de progressão.",
+          "href": "/items/steal-a-verity-godly-verity"
+        },
+        {
+          "badge": "Popular",
+          "title": "Guia de roubo",
+          "description": "Padrões de agressão do Monster Verity, ameaças das variantes de cor, arcos de fuga e assaltos PvP de caixas explicados passo a passo.",
+          "href": "/mechanics/steal-a-verity-stealing"
+        },
+        {
+          "badge": "Novo",
+          "title": "Treino de velocidade",
+          "description": "Prioridades de melhoria da esteira e os marcos de Velocidade que decidem quais caixas você pode levar para casa com segurança.",
+          "href": "/progression/steal-a-verity-max-level"
+        },
+        {
+          "badge": "Popular",
+          "title": "Defesa da base",
+          "description": "Melhorias de portões, cofres e layout que mantêm os invasores longe dos seus pets mais lucrativos.",
+          "href": "/base/steal-a-verity-best-base"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "O que é Steal A Verity?",
+      "paragraphs": [
+        "Steal A Verity é um tycoon gratuito de roubar e crescer no Roblox, no qual até sete jogadores compartilham um servidor e disputam quem constrói a base mais rica. Você reivindica um terreno, saqueia caixas guardadas pelo Monster Verity ou rouba caixas de jogadores rivais e leva o saque para casa antes que alguém o intercepte.",
+        "De volta à sua base, as caixas são colocadas em uma plataforma de choco para revelar Pets Verity que geram renda passiva. Esse dinheiro financia o treino na esteira para obter Velocidade permanente, que por sua vez libera caixas mais pesadas, variantes de pets mais raras e fugas mais seguras. Domine o ciclo de roubar, chocar, ganhar e melhorar, e você passa de alvo fácil a magnata do servidor."
+      ],
+      "stats": [
+        {
+          "label": "Desenvolvedor",
+          "value": "Steal A Verity! (Grupo do Roblox)"
+        },
+        {
+          "label": "Plataforma",
+          "value": "Roblox"
+        },
+        {
+          "label": "Gênero",
+          "value": "Tycoon de roubar e crescer"
+        },
+        {
+          "label": "Visitas totais",
+          "value": "6,5M+"
+        },
+        {
+          "label": "Favoritos",
+          "value": "318K+"
+        },
+        {
+          "label": "Jogadores online",
+          "value": "6,4K+"
+        }
+      ],
+      "cta": "Explore todos os guias"
+    },
+    "explore": {
+      "title": "Explore a Wiki do Steal A Verity",
+      "description": "Domine o ciclo tycoon do Steal A Verity com rotas de farm de caixas, tier lists de Pets Verity, marcos de Velocidade, layouts de defesa de base e as últimas atualizações do jogo.",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Códigos do Steal A Verity",
+          "description": "Todos os códigos ativos e expirados em um só lugar, além dos passos exatos de resgate. No momento não há códigos ativos emitidos pelos desenvolvedores, então este hub acompanha a página oficial do Roblox e os anúncios da comunidade para quando novos surgirem.",
+          "href": "/guide/steal-a-verity-guide",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "Sem códigos",
+              "detail": "No momento não há códigos ativos do Steal A Verity emitidos pelos desenvolvedores"
+            },
+            {
+              "label": "Somente oficial",
+              "detail": "Acompanhe a página oficial do Roblox e os canais da comunidade para novos códigos"
+            },
+            {
+              "label": "Resgatar",
+              "detail": "Códigos futuros são inseridos no menu Configurações do jogo e diferenciam maiúsculas de minúsculas"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Guia para iniciantes do Steal A Verity",
+          "description": "Um passo a passo da primeira sessão: reivindicar uma base, explorar o Monster Verity, fazer um roubo de caixa seguro, chocar pets iniciais e reinvestir em Velocidade.",
+          "href": "/guide/steal-a-verity-beginner-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Pise em uma plataforma de neon não reivindicada para garantir seu terreno"
+            },
+            {
+              "label": "2",
+              "detail": "Explore a arena central onde o Monster Verity circula as caixas"
+            },
+            {
+              "label": "3",
+              "detail": "Pegue uma caixa amarela padrão e fuja antes que a agressão aumente"
+            },
+            {
+              "label": "4",
+              "detail": "Solte a caixa na sua plataforma de choco para obter seu primeiro Pet Verity"
+            },
+            {
+              "label": "5",
+              "detail": "Reinvista cada dólar inicial em Velocidade na esteira, não em cosméticos"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Tier list de pets do Steal A Verity",
+          "description": "Pets Verity classificados por raridade, potencial de renda e valor de progressão, para você saber quais filhotes manter e quais vender para financiar a esteira.",
+          "href": "/items/steal-a-verity-godly-verity",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "Rainbow e Black Smiling Verity: as formas mais raras com maior dinheiro por segundo"
+            },
+            {
+              "label": "A",
+              "detail": "Winged Verity: recompensas de elite muito disputadas com forte renda passiva"
+            },
+            {
+              "label": "B",
+              "detail": "Pets variantes amarelo, azul e rosa: geradores confiáveis de meio de jogo"
+            },
+            {
+              "label": "C",
+              "detail": "Pets Monster Verity padrão: renda inicial segura e preenchimento fácil do Índice"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Pets do Steal A Verity",
+          "description": "Como os Pets Verity são obtidos e quanto valem: choco de caixas, renda de dinheiro por segundo, níveis de ovo e as variantes raras que sustentam um plantel de fim de jogo.",
+          "href": "/items/steal-a-verity-verity-egg",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Ovos de pet",
+              "detail": "Os ovos Verity, Monster e Secret saem cada um de um pool de raridade diferente"
+            },
+            {
+              "label": "Choco",
+              "detail": "Solte uma caixa roubada na plataforma da sua base para chocar um pet e começar a ganhar"
+            },
+            {
+              "label": "Raridade",
+              "detail": "As variantes Rainbow e Black Smiling pagam mais dinheiro por segundo"
+            },
+            {
+              "label": "Índice",
+              "detail": "Registre cada pet novo uma vez para completar seu Índice e resgatar marcos"
+            },
+            {
+              "label": "Renda",
+              "detail": "Mantenha os mais lucrativos equipados e venda os comuns duplicados por dinheiro rápido"
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Guia de roubo do Steal A Verity",
+          "description": "Como pegar caixas do Monster Verity e de jogadores rivais com segurança, cobrindo planejamento de rotas, ameaças das variantes de cor, arcos de fuga, controle de risco e depósito do saque na base.",
+          "href": "/mechanics/steal-a-verity-stealing",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Percorra a rota de mãos vazias uma vez para aprender os ângulos de câmera"
+            },
+            {
+              "label": "2",
+              "detail": "Verifique a direção de patrulha e a cor do Monster Verity antes de entrar"
+            },
+            {
+              "label": "3",
+              "detail": "Avance para pegar a caixa no instante em que o monstro virar"
+            },
+            {
+              "label": "4",
+              "detail": "Fuja em arcos amplos: curvas fechadas drenam seu impulso"
+            },
+            {
+              "label": "5",
+              "detail": "Deposite a caixa na plataforma da base para chocá-la imediatamente"
+            },
+            {
+              "label": "6",
+              "detail": "Guarde o saque e melhore a Velocidade antes da próxima investida"
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Guia de velocidade do Steal A Verity",
+          "description": "Treino na esteira e os marcos de Velocidade que mudam o que você pode farmar, de rotas consistentes de caixas de 10k a extrações por todo o mapa com um milhão de Velocidade.",
+          "href": "/progression/steal-a-verity-max-level",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "10k",
+              "detail": "Rotas consistentes de caixas do Monster Verity com sprints controlados"
+            },
+            {
+              "label": "50k",
+              "detail": "Roubos confiáveis de caixas lendárias e fugas de jogadores rivais"
+            },
+            {
+              "label": "250k",
+              "detail": "Rotas por todo o mapa com alta segurança de carga para caixas pesadas"
+            },
+            {
+              "label": "1M",
+              "detail": "Velocidade de deslocamento máxima para extrações quase intocáveis"
+            },
+            {
+              "label": "Esteira",
+              "detail": "Cada melhoria aumenta a Velocidade ganha por tick: financie-a antes dos cosméticos"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Guia de base do Steal A Verity",
+          "description": "Melhorias e layouts de base que protegem a renda dos seus pets, cobrindo portões de entrada, recintos de cofre, alarmes de invasão e onde colocar seus pets mais lucrativos.",
+          "href": "/base/steal-a-verity-best-base",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Portões",
+              "detail": "Portões e portais de entrada impedem entradas em linha reta antes de tudo"
+            },
+            {
+              "label": "Cercas",
+              "detail": "As cercas perimetrais forçam os invasores a caminhos de salto previsíveis"
+            },
+            {
+              "label": "Cofres",
+              "detail": "Cerque os espaços de pets de alto rendimento para que os ladrões não vejam seus melhores geradores"
+            },
+            {
+              "label": "Alarmes",
+              "detail": "Os alertas de invasão avisam antes que um bloco de esteira AFK saia caro"
+            },
+            {
+              "label": "Layout",
+              "detail": "Esconda os pets de reserva no fundo e deixe os pets isca perto da entrada"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Atualizações do Steal A Verity",
+          "description": "Um resumo contínuo das atualizações oficiais do Steal A Verity, incluindo novo conteúdo de caixas e pets, ajustes de equilíbrio e outras mudanças que alteram o meta entre versões.",
+          "href": "/guide/steal-a-verity-full-game",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Patches",
+              "detail": "Os temporizadores de spawn de caixas e os raios de agressão do monstro mudam entre atualizações"
+            },
+            {
+              "label": "Variantes",
+              "detail": "Novas formas de cor e Winged Verity mudam como as perseguições acontecem"
+            },
+            {
+              "label": "Economia",
+              "detail": "A renda dos pets e os custos da esteira são reajustados conforme o jogo cresce"
+            },
+            {
+              "label": "Linha do tempo",
+              "detail": "Acompanhe cada lançamento de conteúdo em relação à versão atual"
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "Perguntas frequentes",
+      "description": "Respostas rápidas às perguntas mais comuns sobre Steal A Verity.",
+      "items": [
+        {
+          "question": "O que é Steal A Verity?",
+          "answer": "Steal A Verity é um tycoon gratuito de roubar e crescer no Roblox. Você reivindica um terreno, saqueia caixas guardadas pelo Monster Verity ou rouba caixas de jogadores rivais, choca Pets Verity para obter renda passiva e treina Velocidade na esteira até que ninguém no servidor consiga te pegar."
+        },
+        {
+          "question": "Existem códigos de Steal A Verity?",
+          "answer": "Não. No momento não há códigos ativos do Steal A Verity emitidos pelos desenvolvedores. Evite geradores de códigos de terceiros, que comprometem a segurança da sua conta sem conceder nenhuma recompensa real. O progresso vem das rotas de caixas, da renda dos pets e do treino na esteira."
+        },
+        {
+          "question": "Qual é o atributo mais importante em Steal A Verity?",
+          "answer": "A Velocidade de movimento. Ela decide se um carregamento sobrevive à viagem de volta, então reinvista a renda dos pets em melhorias de esteira antes de comprar itens cosméticos. A maioria dos jogadores busca 10k de Velocidade para rotas confortáveis com o Monster Verity e 50k antes de caçar caixas lendárias."
+        },
+        {
+          "question": "Como impedir que outros jogadores roubem meus pets em Steal A Verity?",
+          "answer": "Mova seus pets mais lucrativos para o fundo do terreno, bloqueie as linhas de visão a partir da entrada e melhore cedo os portões e recintos de cofre. Mantenha as sessões de esteira curtas ou verifique suas faixas de entrada regularmente, pois os invasores miram em jogadores presos ao treino AFK."
+        },
+        {
+          "question": "Como chocar Pets Verity em Steal A Verity?",
+          "answer": "Roube uma caixa do Monster Verity ou de outro jogador, leve-a de volta à sua base e solte-a na plataforma de choco para revelar um pet. Caixas mais raras sorteiam de pools de raridade melhores, e cada pet novo que você descobre é registrado no seu Índice."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Pronto para dominar Steal A Verity?",
+      "description": "De roubar sua primeira caixa do Monster Verity a chocar Pets Verity raros e maximizar sua base, nossa wiki da comunidade cobre você com guias gratuitos e atualizados.",
+      "primary": "Ler o guia para iniciantes",
+      "secondary": "Jogar no Roblox"
+    }
+  },
+  "guide": {
+    "overviewTitle": "Guia do Steal A Verity",
+    "overviewDescription": "Guias passo a passo do Steal A Verity cobrindo o ciclo inicial, rotas de caixas, conquistas e um walkthrough completo da progressão do tycoon."
+  },
+  "mechanics": {
+    "overviewTitle": "Mecânicas do Steal A Verity",
+    "overviewDescription": "Como funcionam o roubo, a sobrevivência, a construção de base e a evolução Verity em Steal A Verity, com as regras de tempo e risco por trás de cada investida."
+  },
+  "characters": {
+    "overviewTitle": "Personagens do Steal A Verity",
+    "overviewDescription": "Todos os personagens e criaturas de Steal A Verity explicados, do Verity padrão e Verity Baby às formas Monster, Boss e Devil Verity."
+  },
+  "items": {
+    "overviewTitle": "Itens e Pets do Steal A Verity",
+    "overviewDescription": "Ovos, pets e armas do Steal A Verity catalogados, incluindo Verity Egg, Secret Egg, Monster Egg, Godly Verity e o equipamento que vale a pena guardar."
+  },
+  "progression": {
+    "overviewTitle": "Progressão do Steal A Verity",
+    "overviewDescription": "Nivelamento, nível máximo, desbloqueios e marcos de Verity gigante em Steal A Verity, além da ordem mais rápida para aumentar a renda da sua base."
+  },
+  "base": {
+    "overviewTitle": "Base do Steal A Verity",
+    "overviewDescription": "Layouts, defesas e ataques de base do Steal A Verity, cobrindo os designs mais seguros e como proteger seus pets dos invasores."
+  },
+  "shared": {
+    "wikiNavigation": "Navegação da Wiki",
+    "activeCodes": "Códigos ativos",
+    "noActiveCodes": "No momento não há códigos ativos disponíveis",
+    "checkBackSoonCodes": "Volte em breve para ver novos códigos",
+    "updated": "Atualizado",
+    "viewAllCodes": "Ver todos os códigos",
+    "playOnRoblox": "Jogar no Roblox",
+    "inThisSection": "Nesta seção",
+    "tableOfContents": "Índice",
+    "nextSteps": "Próximos passos",
+    "needHelp": "Precisa de ajuda?",
+    "relatedReading": "Leitura relacionada",
+    "relatedGuides": "Guias relacionados",
+    "readMore": "Ler mais",
+    "officialMedia": "Mídia oficial",
+    "home": "Início",
+    "noGuidesAvailable": "Ainda não há guias disponíveis. Volte em breve!"
+  },
+  "footer": {
+    "aboutTitle": "Wiki do Steal A Verity",
+    "about": "A Wiki do Steal A Verity é um hub de guias independente feito por fãs, cobrindo Pets Verity, códigos, estratégias de roubo, treino de velocidade, melhorias de base e conhecimentos essenciais do jogo para jogadores novos e veteranos.",
+    "quickLinks": "Links rápidos",
+    "guides": "Guias",
+    "legal": "Legal",
+    "copyright": "2026 Wiki do Steal A Verity. Não afiliada à Roblox nem aos desenvolvedores do jogo.",
+    "description": "Tycoon gratuito de roubar e crescer no Roblox. Roube caixas, colete Pets Verity, treine Velocidade e melhore sua base.",
+    "playGame": "Jogue Steal A Verity no Roblox",
+    "officialDiscord": "Grupo oficial do Roblox",
+    "officialYoutube": "Vídeo de gameplay",
+    "vvBuilder": "Planejador de Pets e Velocidade",
+    "beginnerGuide": "Guia para iniciantes",
+    "characterGuides": "Guias de personagens",
+    "itemGuides": "Guias de itens e pets",
+    "baseGuides": "Guias de base",
+    "privacyPolicy": "Política de Privacidade",
+    "termsOfService": "Termos de Serviço"
+  }
+}

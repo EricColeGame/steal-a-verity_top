@@ -32,6 +32,6 @@ export const siteConfig: SiteConfig = {
     discord: "https://www.roblox.com/groups/580684246",
     youtube: "https://www.youtube.com/watch?v=M2Hbmh2s2mQ",
   },
-  locales: ["en", "es", "pt", "de", "fr"],
+  locales: ["en", "es", "pt", "fr"],
   defaultLocale: "en",
 };
