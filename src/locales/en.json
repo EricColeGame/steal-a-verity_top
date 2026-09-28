@@ -9,7 +9,13 @@
   "nav": {
     "home": "Home",
     "menu": "Menu",
-    "toggleTheme": "Toggle theme"
+    "toggleTheme": "Toggle theme",
+    "guide": "Guide",
+    "mechanics": "Mechanics",
+    "characters": "Characters",
+    "items": "Items",
+    "progression": "Progression",
+    "base": "Base"
   },
   "home": {
     "meta": {
@@ -403,7 +409,30 @@
       "secondary": "Play on Roblox"
     }
   },
-  "bosses": {},
+  "guide": {
+    "overviewTitle": "Steal A Verity Guide",
+    "overviewDescription": "Step-by-step Steal A Verity guides covering the beginner loop, box routes, achievements and a full walkthrough of the tycoon progression."
+  },
+  "mechanics": {
+    "overviewTitle": "Steal A Verity Mechanics",
+    "overviewDescription": "How Steal A Verity stealing, surviving, base building and Verity evolution work, with the timing and risk rules behind every run."
+  },
+  "characters": {
+    "overviewTitle": "Steal A Verity Characters",
+    "overviewDescription": "Every Steal A Verity character and creature explained, from standard Verity and Verity Baby to Monster, Boss and Devil Verity forms."
+  },
+  "items": {
+    "overviewTitle": "Steal A Verity Items & Pets",
+    "overviewDescription": "Steal A Verity eggs, pets and weapons catalogued, including Verity Egg, Secret Egg, Monster Egg, Godly Verity and the gear worth keeping."
+  },
+  "progression": {
+    "overviewTitle": "Steal A Verity Progression",
+    "overviewDescription": "Leveling, max level, unlocks and giant Verity milestones in Steal A Verity, plus the fastest order to grow your base income."
+  },
+  "base": {
+    "overviewTitle": "Steal A Verity Base",
+    "overviewDescription": "Steal A Verity base layouts, defenses and attacks, covering the safest base designs and how to protect your pets from raiders."
+  },
   "shared": {
     "wikiNavigation": "Wiki Navigation",
     "activeCodes": "Active Codes",
@@ -434,9 +463,9 @@
     "officialYoutube": "Gameplay Video",
     "vvBuilder": "Pet & Speed Planner",
     "beginnerGuide": "Beginner Guide",
-    "raceGuides": "Race Guides",
-    "bossGuides": "Boss Guides",
-    "buildGuide": "Build Guide",
+    "characterGuides": "Character Guides",
+    "itemGuides": "Item & Pet Guides",
+    "baseGuides": "Base Guides",
     "privacyPolicy": "Privacy Policy",
     "termsOfService": "Terms of Service"
   }
